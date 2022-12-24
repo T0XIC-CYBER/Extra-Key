@@ -1,6 +1,5 @@
 ____
-|--:|
-|```   TERMUX   EXTRA   KEYBOARD ```|
+```   TERMUX   EXTRA   KEYBOARD ```
 ____
 #### see documentation: https://wiki.termux.com/wiki/Touch_Keyboard
 
