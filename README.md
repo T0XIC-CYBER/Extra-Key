@@ -1,4 +1,4 @@
-## termux 'extra-keys' based keyboard for oculus quest (qwertz)
+
 ___
 #### see documentation: https://wiki.termux.com/wiki/Touch_Keyboard
 
