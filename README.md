@@ -1,8 +1,7 @@
 ____
-```   TERMUX   EXTRA   KEYBOARD ```
-————
-💻
-___
+
+|```   TERMUX   EXTRA   KEYBOARD ```|
+____
 #### see documentation: https://wiki.termux.com/wiki/Touch_Keyboard
 
 ##### trying to match most physical keys, some optional keys replaced
